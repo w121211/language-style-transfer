@@ -101,3 +101,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/deployment.xml
+.idea/language-style-transfer.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+code/data/project.db
+code/data/result.db
+code/data/scheduler.1d
+code/data/scheduler.1h
+code/data/scheduler.all
+code/data/task.db
